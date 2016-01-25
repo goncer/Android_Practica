@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SEU-App5</string>
+
+    <string name="error">Fin por falta de permisos para obtener ubicación</string>
+    <string name="longi">Longitud</string>
+    <string name="lati">Latitud</string>
+
+    <string name="hello_world">------Super APP 4.000 ----</string>
+    <string name="action_settings">Settings</string>
+    <string name="GPS_Text">GPS</string>
+    <string name="lbl_temp">Temperatura</string>
+    <string name="lbl_temp_median">Temperatura media</string>
+    <string name="rbTMP">Activar</string>
+    <string name="rbGPS">Activar</string>
+    <string name="errorTemp">Falta sensor de temperatura ambiente. Prueba con sensor de temperatura (deprecated)</string>
+    <string name="otroerror">Fin por falta de sensor de temperatura</string>
+    <string name="temp">Temperatura</string>
+    <string name="GPSposition">Posicion</string>
+    <string name="average">0</string>
+    <string name="GPS_DistanceText">Distancia</string>
+    <string name="distance">D.Recorrida</string>
+    <string name="hello_world_Layout">********Super APP 4.0000 ********* </string>
+
+</resources>

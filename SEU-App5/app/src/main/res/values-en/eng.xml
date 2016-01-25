@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SEU-App5</string>
+
+    <string name="error">So for lack of permits for location</string>
+    <string name="longi">Longitude</string>
+    <string name="lati">Latitude</string>
+
+    <string name="hello_world">------Super APP 4.000 EN-US----</string>
+    <string name="action_settings">Settings</string>
+    <string name="GPS_Text">GPS</string>
+    <string name="lbl_temp">Temperature</string>
+    <string name="lbl_temp_median">Average temperature</string>
+    <string name="rbTMP">Activate</string>
+    <string name="rbGPS">Activate</string>
+    <string name="errorTemp">Room temperature sensor missing. Test with temperature sensor (deprecated)</string>
+    <string name="otroerror">End due to lack of temperature sensor</string>
+    <string name="temp">Temperature</string>
+    <string name="GPSposition">Position</string>
+    <string name="average">0</string>
+    <string name="GPS_DistanceText">Distance</string>
+    <string name="distance">D.Traveled</string>
+    <string name="hello_world_Layout">********Super APP 4.0000 EN-US ********* </string>
+
+
+</resources>
